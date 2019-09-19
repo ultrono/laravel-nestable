@@ -1,7 +1,7 @@
 {
     "name": "atayahmet/laravel-nestable",
     "type": "library",
-    "description": "Laravel 5 nested categories library",
+    "description": "Laravel 5.8 plsu nested categories library",
     "homepage": "https://github.com/atayahmet/nestable",
     "keywords": ["nested","nestable","nestedset","category","laravel"],
     "license": "MIT",
@@ -15,8 +15,8 @@
     ],
     "require": {
         "php": ">=5.5.5",
-        "illuminate/support": "5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*",
-        "illuminate/database": "5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*"
+        "illuminate/support": "^5.8|^6.0",
+        "illuminate/database": "^5.8|^6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.0|^5.0",

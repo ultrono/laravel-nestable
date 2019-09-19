@@ -1,5 +1,8 @@
-Laravel 5 Nestable
+Laravel 5.8 / 6x Nestable
 ========
+
+| Note: Unfortunately the original repository has been marked as read only by the author. This is a fork created with very limited time to add for Laravel 6 support. I've not yet had change to run the original tests but all methods/functionality mentioned in the readme work on a vanilla install of Laravel 6. Use this repository at your own risk as I'm unlikely to have the time to maintain it further. |
+| :--- |
 
 Laravel Nestable to work with recursive logic. Category level there is no limit but
 this may vary depending on your server performance. Allow the 100000 recursion process execution since PHP 5.2. [More info](http://php.net/manual/en/pcre.configuration.php#ini.pcre.recursion-limit)
@@ -10,12 +13,11 @@ Install
 ---
 
 ```ssh
-composer require atayahmet/laravel-nestable
+composer require ultrono/laravel-nestable
 ```
 
-Then
 
-Add to **app.php** the Service Provider file.
+If using a Laravel version less than 5.5, add to **app.php** the Service Provider file.
 ```ssh
 Nestable\NestableServiceProvider::class
 ```

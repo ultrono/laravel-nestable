@@ -1,8 +1,8 @@
 {
-    "name": "atayahmet/laravel-nestable",
+    "name": "ultrono/laravel-nestable",
     "type": "library",
     "description": "Laravel 5.8 plsu nested categories library",
-    "homepage": "https://github.com/atayahmet/nestable",
+    "homepage": "https://github.com/ultrono/laravel-nestable",
     "keywords": ["nested","nestable","nestedset","category","laravel"],
     "license": "MIT",
     "authors": [

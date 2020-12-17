@@ -1,7 +1,7 @@
-Laravel 5.8 / 6x Nestable
+Laravel 5.8 / 6x / 7x / 8x Nestable
 ========
 
-| Note: Unfortunately the original repository has been marked as read only by the author. This is a fork created with very limited time to add for Laravel 6 support. I've not yet had change to run the original tests but all methods/functionality mentioned in the readme work on a vanilla install of Laravel 6. Use this repository at your own risk as I'm unlikely to have the time to maintain it further. |
+| Note: Unfortunately the original repository has been marked as read only by the author. This is a fork created with very limited time to add for Laravel 6, 7 and 8 support. I've not yet had change to run the original tests but all methods/functionality mentioned in the readme work on vanilla installs of Laravel 5.8 and above. Use this repository at your own risk as I'm unlikely to have the time to maintain it further. |
 | :--- |
 
 Laravel Nestable to work with recursive logic. Category level there is no limit but

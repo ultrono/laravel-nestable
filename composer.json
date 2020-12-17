@@ -13,9 +13,9 @@
             "role": "Developer"
         },
         {
-            "name": "Ahmet ATAY",
-            "email": "ahmet.atay@hotmail.com",
-            "homepage": "http://www.atayahmet.com",
+            "name": "Rob Allport",
+            "email": "rob@f9web.co.uk",
+            "homepage": "https://www.f9web.co.uk",
             "role": "Forked to add Laravel 5.8 and above support"
         }
     ],

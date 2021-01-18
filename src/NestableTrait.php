@@ -255,13 +255,13 @@ trait NestableTrait
      *
      * @throws \Exception
      */
-    public function delete()
-    {
-        if (static::$_instance instanceof Builder) {
-            return static::$_instance->delete();
-        }
-        return parent::delete();
-    }
+    // public function delete()
+    // {
+    //    if (static::$_instance instanceof Builder) {
+    //       return static::$_instance->delete();
+    //    }
+    //    return parent::delete();
+    // }
 
     /**
      * if called method not exists in NestableService

@@ -1,6 +1,6 @@
 <?php
 
-function nestable(array $data = null)
+function nestable(?array $data = null)
 {
     $nestable = \App::make('Nestable\Services\NestableService');
 
